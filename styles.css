@@ -52,6 +52,10 @@ h3 {
   color: hsl(218, 44%, 22%);
 }
 
+p {
+  margin-top: 0px;
+}
+
 .text-container {
   display: flex;
   justify-content: center;
