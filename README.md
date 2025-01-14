@@ -6,8 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://lwebbz.github.io/QR](https://lwebbz.github.io/QR)
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- Live Site URL: [https://lwebbz.github.io/qr](https://lwebbz.github.io/qr)
 
 ## My process
 
@@ -23,9 +22,9 @@ I have it in me to do front end dev.
 
 ### Continued development
 
-Will continue working on improving understanding of layout with flexbox and grid
+Will continue to work on improving my understanding of layout with flexbox and grid
 
 ## Author
 
 - Website - [Lawrence Webber](https://lwebbz.github.io)
-- Frontend Mentor - [@lwebbz](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@lwebbz](https://www.frontendmentor.io/profile/lwebbz)
